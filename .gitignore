@@ -1,0 +1,9 @@
+# C#
+bin/
+obj/
+
+# Direnv
+.direnv/
+
+# VS Code
+.vscode/
