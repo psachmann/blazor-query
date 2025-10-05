@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BlazorQuery.Components/BlazorQuery.Components.csproj" />
+    <Project Path="src/BlazorQuery.Core/BlazorQuery.Core.csproj" />
+  </Folder>
+</Solution>

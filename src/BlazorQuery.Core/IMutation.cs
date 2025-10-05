@@ -1,0 +1,1 @@
+namespace BlazorQuery.Core;

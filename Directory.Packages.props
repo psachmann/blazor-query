@@ -5,4 +5,7 @@
   </PropertyGroup>
   <ItemGroup>
   </ItemGroup>
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.AspNetCore.Components.Web" Version="9.0.9" />
+  </ItemGroup>
 </Project>
